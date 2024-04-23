@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  conteudo_type: MyString
+  contem: MyText
+  post: one
+  position: 1
+
+two:
+  conteudo_type: MyString
+  contem: MyText
+  post: two
+  position: 1
